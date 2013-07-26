@@ -1,0 +1,56 @@
+@charset "gb2312";
+/* CSS Document */
+#leftbg{ /*Left containter*/
+	background-color:#F0F0F0;
+	background-repeat: no-repeat;
+	width:180px;
+	height:380px;
+	top: 130px;
+	background-position: center center;
+}
+#nume {  /*book search*/
+	padding-top: 30px;
+}
+#sele { /*list*/
+	margin-left: 4px;
+	margin-bottom: 2px;
+}
+#fl { /*Related links*/
+	padding: 0px;
+	margin: 0px;
+}
+.bt{  /*Title*/
+	font-family: Times;
+	font-size: 14px;
+	font-weight: bold;
+	color: #399;
+}
+.txt {  /*input font*/
+	font-family: Times;
+	font-size: 14px;
+}
+.text {  /*default font in input */
+	font-family: Times;
+	font-size: 14px;
+	color: #999;
+	font-style: italic;
+}
+fieldset{  /*fieldset*/
+	width: 165px;
+	border: 1px solid #399;
+	margin-right: 6px;
+	margin-left: 6px;
+	padding-top: 2px;
+	padding-right: 0px;
+	padding-bottom: 2px;
+	padding-left: 0px;
+}
+a:link {color: #099; text-decoration: none;}
+a:visited {color: #999; text-decoration: none;}
+a:hover { color: #C30; text-decoration: none;}
+a:active {color: #F96; text-decoration: none;}
+a {	font-size: 12px;}
+form {
+	margin: 4px;
+	padding: 0px;
+}

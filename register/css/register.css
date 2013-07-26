@@ -1,0 +1,66 @@
+@charset "gb2312";
+/* CSS Document */
+#app {  
+
+	width: 780px;
+	margin: 0 auto;
+}
+#top {   
+	height: 60px;
+	width: 780px;
+}
+#bt {   
+	font-size: 24px;
+	font-weight: bold;
+	color: #399;
+	height:40px;
+	background-color:#BCE4FE;
+	vertical-align: middle;
+	text-align: center;
+	margin-top: 10px;
+	padding-top: 10px;
+}
+#bt{
+  top:200px;
+}
+#bd {  
+  
+	font-size: 14px;
+	color: #F30;
+}
+.tdl {   
+    font-size: 14px;
+	color: #F60;
+
+}
+#err {   
+	height: 20px;
+	font-size: 14px;
+	color: #099;
+	padding-top: 10px;
+	background-color:#BCE4FE;
+}
+#copyright {   /*定义底部版权信息样式*/
+	height: 60px;
+	text-align: center;
+	font-size: 14px;
+	line-height: 150%;
+}
+table {
+	margin: 0px;
+	padding: 0px;
+	width: 780px;
+}
+form {
+	margin: 0px;
+	padding: 0px;
+	width: 780px;
+}
+a:link {color: #399;}
+a:visited {	color: #906;}
+a:hover {	color: #F90;}
+a:active {	color: #099;}
+hr {
+	width: 780px;
+	line-height: 150%;
+}

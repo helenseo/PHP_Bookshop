@@ -1,0 +1,33 @@
+@charset "gb2312";
+/* CSS Document */
+#top { 
+	height: 95px;
+	width: 780px;
+	padding-top: 0px;
+	padding-right: 20px;
+	padding-left: 0px;
+	padding-bottom: 0px;
+}
+#vai1 {  
+	padding-right: 20px;
+	padding-bottom: 8px;
+	font-size: 16px;
+	font-family:Arial;
+} 
+#vai2 { 
+	background-color: #FFEFCE;
+	padding-right: 20px;
+	font-size: 14px;
+}
+a:link {  
+	color: blue;
+}
+a:active {  
+	color: #ADD8E6;
+}
+a:visited {  
+	color: #ADD8E6;
+}
+a:hover { 
+	color: #A4A400;
+}

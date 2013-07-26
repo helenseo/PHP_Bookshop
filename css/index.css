@@ -1,0 +1,49 @@
+@charset "gb2312";
+/* CSS Document */
+#top{
+	height:95px;
+	width:780px;
+}
+
+
+#left {  /*left containter*/
+	float: left;
+	height:440px;
+	width: 180px;
+	top: 120px;
+}
+
+#main{
+  margin-left:180px;
+  height:440px;
+  width:600px;
+  top:30px;
+  left:30px;
+}
+
+#bottom{
+	height:100px;
+	width:780px;
+
+}
+.clear {  
+	clear: both;
+	height:0;
+}
+ #container {   /*containter*/
+	width:780px;
+	margin:0 auto;
+	padding:0;
+}
+body {  
+	margin: 0px;
+	padding: 0px;
+}
+#err {   /*feedback information*/
+	top:110px;
+	height: 20px;
+	width:180px;
+	font-size: 14px;
+	color: #099;
+	background-color:#BCE4FE;
+}

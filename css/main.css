@@ -1,0 +1,44 @@
+@charset "gb2312";
+/* CSS Document */
+#rightbt1{ 
+	
+	background-repeat: no-repeat;
+	width:600px;
+	height:440x;
+	font-size: 12px;
+}
+#rightbt2{   
+
+	background-repeat: no-repeat;
+	width:580px;
+	height:30px;
+	background-position: right bottom;
+	padding-top: 2px;
+	padding-right: 20px;
+	font-size: 12px;
+}
+#rightbt3{   
+
+	background-repeat: no-repeat;
+	width:580px;
+	height:30px;
+	background-position: right bottom;
+	padding-top: 2px;
+	padding-right: 20px;
+	font-size: 12px;
+}
+
+#imgc {   
+	height: 55px;
+	width: 55px;
+	padding: 2px;
+	margin: 2px;
+}
+a:link {color: #399; text-decoration: none;}
+a:visited {color: #999; text-decoration: none;}
+a:hover {color: #F90; text-decoration: underline;}
+a:active {color: #0CC; text-decoration: none;}
+table,tr,td {  
+	margin: 0px;
+	padding: 0px;
+}

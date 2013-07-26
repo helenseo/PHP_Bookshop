@@ -1,0 +1,51 @@
+@charset "gb2312";
+/* CSS Document */
+#appb { /*define page style*/
+	width: 600px;
+	padding:1;
+	margin: 0 auto;
+}
+#bt { /*define title style*/
+	font-size: 18px;
+	font-weight: bold;
+	color: black;
+	height:40px;
+	background-color:#BCE4FE;
+	vertical-align: middle;
+	text-align: center;
+	padding-top: 10px
+}
+.tdl {  /*define form style*/
+	font-size: 12px;
+	color: black;
+	background-color: #BCE4FE;
+	margin: 0px;
+	padding: 0px;
+	border: 0px none #FFF;
+}
+.tdd {  /*define form style*/
+	color: black;
+	font-size: 14px;
+	line-height: 150%;
+}
+#bb { /*define feedback information style*/
+	color: #366;
+	background-color:#86cefd;
+	border: thin solid #CCC;
+	font-size: 13px;
+	line-height: 150%;
+}
+table ,form{
+	margin: 0px;
+	padding: 0px;
+}
+a:link {color: #399;}
+a:visited {}
+a:hover {color: #F90;}
+a:active {color: #099;}
+tr {line-height: 150%;}
+hr {line-height: 100%;}
+body {
+	padding: 0px;
+	margin-top: 2px;
+}

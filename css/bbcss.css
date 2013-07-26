@@ -1,0 +1,68 @@
+@charset "gb2312";
+/* CSS Document */
+#app {
+	width: 780px;
+	margin: 0 auto;
+}
+#top {
+	height: 60px;
+	width: 780px;
+}
+#bt {
+	font-size: 24px;
+	font-weight: bold;
+	color: #399;
+	width: 780px;
+	height:50px;
+	background-color: #FFC;
+	vertical-align: middle;
+	text-align: center;
+}
+#bd {
+	font-size: 14px;
+	color: #F30;
+	width: 780px;
+}
+.tdl {
+	padding-right: 10px;
+	font-size: 14px;
+	color: #F60;
+	background-color: #FFC;
+}
+a:link {
+	color: #399;
+}
+a:visited {
+	color: #909;
+}
+a:hover {
+	color: #F90;
+}
+a:active {
+	color: #099;
+}
+.td2 {
+	font-size: 14px;
+	color: #099;
+    width: 780px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	background-color: #FFEFCE;
+}
+tr {
+	line-height: 200%;
+}
+#bb {
+	color: #366;
+	background-color: #F90;
+}
+.err {
+	font-size: 14px;
+	color: #F00;
+}
+
+
+body {
+	margin: 0px;
+	padding: 0px;
+}

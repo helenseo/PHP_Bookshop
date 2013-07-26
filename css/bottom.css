@@ -1,0 +1,46 @@
+@charset "gb2312";
+/* CSS Document */
+#bottom { 
+	height: 100px;
+	padding-top: 2px;
+	font-size: 14px;
+}
+#timersFrame {
+	padding-right: 2px;
+	padding-bottom: 1px;
+	font-size: 14px;
+}
+#copyright {
+	padding-top: 2px;
+	height: 60px;
+	text-align: center;
+	font-size: 14px;
+	line-height: 150%;
+}
+li{
+	padding: 0px;
+	list-style-position: inside;
+	list-style-type: disc;
+	margin-top: 2px;
+}
+ul {
+	padding: 0px;
+	margin-left: 2px;
+	list-style-position: inside;	
+}
+body {
+	margin: 0px;
+	padding: 0px;
+}
+a:link {
+	color: #399;
+}
+a:visited {
+	color: #906;
+}
+a:hover {
+	color: #F90;
+}
+a:active {
+	color: #099;
+}
